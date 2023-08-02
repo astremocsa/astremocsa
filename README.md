@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @astremocsa
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...qwd
-- 📫 How to reach me ...
+- 📫 How to reach me ...as
 
 <!---
 astremocsa/astremocsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
